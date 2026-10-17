@@ -40,3 +40,7 @@ Perform `git reset --hard` exercises only in a disposable practice branch/reposi
 - `style.css` — basic styling
 - `exercises/` — step-by-step guided exercises
 - `mentor-guide/` — demonstration notes and expected outcomes
+
+## Dry Run
+
+Practicing Github collaboration and remote updates.
