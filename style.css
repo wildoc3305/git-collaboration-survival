@@ -1,0 +1,18 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #f4f6fb;
+  color: #1e293b;
+  font: 16px/1.6 system-ui, -apple-system, Segoe UI, sans-serif;
+}
+.container {
+  width: min(760px, calc(100% - 32px));
+  margin: 48px auto;
+  padding: 36px;
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 12px 36px rgba(15, 23, 42, .08);
+}
+.eyebrow { color: #2563eb; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
+h1 { line-height: 1.15; }
+section { border-top: 1px solid #e2e8f0; padding-top: 12px; margin-top: 24px; }
